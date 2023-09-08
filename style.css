@@ -4,12 +4,20 @@ img{
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    border: 1px solid black;
+    width: 30em;
+    justify-content: center;
+    margin: auto;
+    border: none;
+    color: white;
     
 }
 section .url a{
     text-decoration: none;
-    color: black;
+    color: rgb(242, 233, 233);
+
+}
+section{
+    background-color: rgb(68, 80, 69);
 
 }

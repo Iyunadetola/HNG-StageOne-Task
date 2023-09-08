@@ -22,4 +22,4 @@ console.log(day)
 
 currentTime.textContent ='Time: ' + time
 currentDay.textContent = "Day: " + day
-todaysDate.innerHTML = 'Date: ' + date
+// todaysDate.innerHTML = 'Date: ' + date
